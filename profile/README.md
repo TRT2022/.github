@@ -13,6 +13,9 @@
 </div>
 
 + <https://github.com/NVIDIA/trt-samples-for-hackathon-cn/blob/master/hackathon/TRT-Hackathon-2021-summary.md>
++ <https://github.com/DataXujing/TensorRT-DETR>
+
+------
 
 <div >
 <img src="./profile/image/achievement.png"  width=20 height=20 />  <b> 英伟达TensorRT加速AI推理Hackathon 2022 —— Transformer模型优化赛 一等奖 </b>
@@ -22,3 +25,4 @@
 TODO
 
 + <https://github.com/NVIDIA/trt-samples-for-hackathon-cn/blob/master/hackathon/TRT-Hackathon-2022-summary.md>
++ <https://github.com/TRT2022/MST-plus-plus-TensorRT>
