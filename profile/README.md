@@ -1,6 +1,6 @@
 ## TRT2022 Organization: 美迪康AI Lab 团队
 
-**:fire: [2023-10-20] NVIDIA TensorRT Hackathon 2023 —— 生成式AI模型优化赛 结束，最终我们获得 优胜奖，今天代码正式开园**
+**:fire: [2023-10-20] NVIDIA TensorRT Hackathon 2023 —— 生成式AI模型优化赛 结束，最终我们获得 优胜奖，今天代码正式开源**
 
 **:fire: 团队成功进入 [【NVIDIA TensorRT Hackathon 2023 —— 生成式AI模型优化赛】](https://tianchi.aliyun.com/competition/entrance/532108/introduction) 复赛**
 
